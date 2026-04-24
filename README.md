@@ -42,7 +42,7 @@ The goal of this project was to deepen my understanding of core JavaScript by bu
 
 ## ⚙️ Installation
 ```bash
-git clone https://github.com/hosseinghandi/fourCast.git
+git clone https://github.com/hosseinghandi/FourCast.git
 cd fourCast
 npm install
 npm run dev
